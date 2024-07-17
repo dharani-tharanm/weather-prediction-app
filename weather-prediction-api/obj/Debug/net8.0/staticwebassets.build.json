@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g5Nx+MoczzSUaw0NVAKVcre1zx0xEHdvhpialew3oOA=",
+  "Source": "weather-prediction-api",
+  "BasePath": "_content/weather-prediction-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
